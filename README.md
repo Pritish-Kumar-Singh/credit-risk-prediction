@@ -8,7 +8,7 @@ An end-to-end machine learning project that predicts whether a customer will def
 * Explainable AI using SHAP
 * Interactive UI using Streamlit
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 credit-risk-project/
@@ -22,7 +22,7 @@ credit-risk-project/
 ├── assets/
 ```
 
-## ⚙️ How to Run
+## How to Run
 
 ### 1. Clone repo
 
@@ -181,7 +181,7 @@ During development, several practical issues were encountered:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Feature engineering can outperform complex models
 * Ensemble models improve robustness
@@ -189,13 +189,13 @@ During development, several practical issues were encountered:
 * Deployment requires handling real-world system issues, not just modeling
 
 
-## 👨‍💻 Author
+##  Author
 
 Pritish Kumar Singh
 ##  Connect With Me
 
-* 📧 Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
-* 💼 LinkedIn: www.linkedin.com/in/pritish1298
+* Email: [pritishsinghprf@gmail.com](mailto:pritishsinghprf@gmail.com)
+* LinkedIn: www.linkedin.com/in/pritish1298
 
 ---
 
